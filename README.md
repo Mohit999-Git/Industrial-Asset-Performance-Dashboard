@@ -6,7 +6,7 @@ This Power BI dashboard analyzes industrial plant assets using a dummy dataset. 
 
 ## Dashboard Preview
 
-![Dashboard] <img width="1125" height="617" alt="Screenshot 2026-07-09 140044" src="https://github.com/user-attachments/assets/c65d4a8f-f43a-46a5-b6cf-5d6b697ab245" />
+[Dashboard] <img width="1125" height="617" alt="Screenshot 2026-07-09 140044" src="https://github.com/user-attachments/assets/c65d4a8f-f43a-46a5-b6cf-5d6b697ab245" />
 
 ## Tools Used
 - Power BI
