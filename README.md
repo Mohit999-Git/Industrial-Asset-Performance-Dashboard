@@ -26,4 +26,5 @@ This Power BI dashboard analyzes industrial plant assets using a dummy dataset. 
 
 ## Dataset
 This project uses **dummy data** created for learning and portfolio purposes.
+[Plant_Asset_Dummy_Dataset.xlsx](https://github.com/user-attachments/files/29848854/Plant_Asset_Dummy_Dataset.xlsx)
 
